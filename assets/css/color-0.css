@@ -138,3 +138,10 @@ footer .copyright a:hover {
 /*------------------------------
     03. END SECOND COLOR
 ------------------------------*/
+.img-fluid{
+    width: 75%;
+    height: auto;
+}
+.faq .accordion .card .card-header h5 .btn.collapsed {
+    color: #000;
+}
