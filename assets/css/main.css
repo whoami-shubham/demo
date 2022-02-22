@@ -2030,3 +2030,12 @@ aside.sidebar .tags ul li {
     height: 640px;
     background: white; */
   }
+  .wtf-icon{
+      max-width: 40px;
+      border-radius: 50%;
+      margin: auto;
+  }
+  .wui{
+    border-radius:0%;
+    max-width: 35px;
+  }
